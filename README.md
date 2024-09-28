@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on **AI Aimbots, Externals and DMA Cheats**
 - 🌱 I’m currently learning **C++ and Kernel**
-- 👯 I’m looking to collaborate on **Cheats of any type**
+- 👯 I’m looking to collaborate on **anything that has the potential to be cool**
 - 📫 How to reach me: **"magedevs" on discord**
 - ⚡ Fun fact: **I started coding Augest 6th, 2024**
 
