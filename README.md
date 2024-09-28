@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning **C++ and Kernel**
 - 👯 I’m looking to collaborate on **anything that has the potential to be cool**
 - 📫 How to reach me: **"magedevs" on discord**
-- ⚡ Fun fact: **I started coding Augest 6th, 2024**
+- ⚡ Fun fact: **I started coding August 6th, 2024**
 
 ## 🛠️ Technologies & Tools
 
