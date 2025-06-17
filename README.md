@@ -24,7 +24,7 @@ Here are my favorite projects I've done:
 1. **Mystic.gg AI Aimbot**
    - Description: A Yolov5 AI Aimbot for Fortnite. Uses a custom mouse moving method I created.
    - Technologies Used: YoloV5, custom mouse moving method, Bettercam
-   - Mystic.gg: https://discord.gg/aep882XgeG
+   - Mystic.gg: https://discord.gg/mysticgg
   
 2. **Custom Mouse-Moving Method**
    - Description: A method of moving/clicking your mouse. Fully undetected in 99.9% of games.
