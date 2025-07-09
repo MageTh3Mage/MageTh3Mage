@@ -28,7 +28,7 @@ Here are my favorite projects I've done:
   
 2. **Custom Mouse-Moving Method**
    - Description: A method of moving/clicking your mouse. Fully undetected in 99.9% of games.
-   - Technologies Used: -secret-
+   - Technologies Used: Low-Level Kernel Drivers
     
 3. **Discord Bots**
    - Description: Discord bots to verify people and automate task in my discord server.
