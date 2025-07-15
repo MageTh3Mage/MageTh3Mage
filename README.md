@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mageth3mage&label=Profile%20views&color=0e75b6&style=flat" alt="mageth3mage" /> </p>
 
-- 🌱 I’m currently learning **Kernel**
-
+- 🌱 I’m currently learning **Kernel, CUDA, Machine Learning**
+- 🕓 I started coding in Aug. 2024
 - 📫 How to reach me **"mageington" on discord**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://discord.gg/E7fgTRHWRf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E7fgTRHWRf" height="30" width="40" /></a>
 </p>
