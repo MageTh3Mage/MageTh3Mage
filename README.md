@@ -1,37 +1,17 @@
-# Hello, I'm Mage 👋
+<h3 align="center">A small-town developer</h3>
 
-Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mageth3mage&label=Profile%20views&color=0e75b6&style=flat" alt="mageth3mage" /> </p>
 
-## 🚀 About Me
+- 🌱 I’m currently learning **Kernel**
 
-- 🔭 I’m currently working on **AI Aimbots, Externals and DMA Cheats**
-- 🌱 I’m currently learning **C++ and Kernel**
-- 👯 I’m looking to collaborate on **anything that has the potential to be cool**
-- 📫 How to reach me: **"mageington" on discord**
-- ⚡ Fun fact: **I started coding August 6th, 2024**
+- 📫 How to reach me **"mageington" on discord**
 
-## 🛠️ Technologies & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/E7fgTRHWRf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E7fgTRHWRf" height="30" width="40" /></a>
+</p>
 
-- **Languages**: Python, C++, HTML, JavaScript
-- **Frameworks**: Flask
-- **Tools**: VS Code, Visual Studio
-- **Platforms**: Windows 10/11
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## 🌟 Projects
-
-Here are my favorite projects I've done:
-
-1. **Mystic.gg AI Aimbot**
-   - Description: A Yolov5 AI Aimbot for Fortnite. Uses a custom mouse moving method I created.
-   - Technologies Used: YoloV5, custom mouse moving method, Bettercam
-   - Mystic.gg: https://discord.gg/mysticgg
-  
-2. **Custom Mouse-Moving Method**
-   - Description: A method of moving/clicking your mouse. Fully undetected in 99.9% of games.
-   - Technologies Used: Low-Level Kernel Drivers
-    
-3. **Discord Bots**
-   - Description: Discord bots to verify people and automate task in my discord server.
-   - Technologies Used: Python / Discord API
-
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mageth3mage&show_icons=true&locale=en&layout=compact" alt="mageth3mage" /></p>
