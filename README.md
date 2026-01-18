@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Kernel, CUDA, Machine Learning**
 - 🕓 I started coding in Aug. 2024
-- 📫 How to reach me **"mageington" on discord**
+- 📫 How to reach me **"mage.sln" on discord**
 - 🔒 Most of my repos are privated.
 
 <h3 align="left">Contact me:</h3>
